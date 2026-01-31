@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import CompletionBox from "../components/CompletionBox"; // adjust path
+import CompletionBox from "../components/CompletionBox"; 
 
 export default function TriviaList({ questions, title, badge, nextModule }) {
   const [index, setIndex] = useState(0);
@@ -68,7 +68,7 @@ export default function TriviaList({ questions, title, badge, nextModule }) {
         })}
       </ul>
 
-      {/* Hint Button */}
+   
       <button
         onClick={() => setShowHint(!showHint)}
         className="mt-4 px-4 py-2 bg-blue-600 rounded hover:bg-blue-500"
@@ -82,7 +82,7 @@ export default function TriviaList({ questions, title, badge, nextModule }) {
         </p>
       )}
 
-      {/* Next Button */}
+     
       {selected !== null && (
         <button
           onClick={nextQuestion}
