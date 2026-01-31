@@ -1,0 +1,18 @@
+{
+  "title": "Team Artemis – Rockets & SAC",
+  "story": "Team Artemis represents SEDS BPHC in the Spaceport America Cup, the world’s largest intercollegiate rocket engineering competition. SEDS BPHC was the first and only BITS Pilani campus to ever enter SAC. The team's mission was to build an 8-foot-long, 28 kg rocket capable of reaching 10,000 feet using Commercial Off-The-Shelf solid rocket motors. Artemis highlights SEDS’ ability to work on large-scale engineering challenges and compete globally.",
+  "questions": [
+    {
+      "question": "Which competition does Artemis participate in?",
+      "options": ["Spaceport America Cup", "CanSat", "NASA Rover Challenge"],
+      "hint": "It’s the biggest student rocket engineering competition in the world.",
+      "answer": 0
+    },
+    {
+      "question": "What was the target altitude for the Artemis rocket?",
+      "options": ["5,000 feet", "8,000 feet", "10,000 feet"],
+      "hint": "It is the highest 4-digit altitude among the options.",
+      "answer": 2
+    }
+  ]
+}

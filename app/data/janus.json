@@ -1,0 +1,18 @@
+{
+  "title": "Team Janus – CanSat Competition",
+  "story": "Team Janus represents SEDS BPHC in the annual international CanSat Competition, where students design miniature satellites that simulate real aerospace missions. In 2021, the team developed dual auto-rotating maple-seed style science payloads and made it to the CDR stage despite the challenges posed by the COVID pandemic. In 2022, they designed a payload connected by a 10-meter tether, requiring stable 45-degree southward camera orientation throughout descent.",
+  "questions": [
+    {
+      "question": "What unique payload did Janus build for the 2021 mission?",
+      "options": ["Solar-wing payloads", "Auto-rotating maple-seed payloads", "Inflatable landing modules"],
+      "hint": "Inspired by how seeds naturally spin as they fall.",
+      "answer": 1
+    },
+    {
+      "question": "What major challenge did the 2021 team face?",
+      "options": ["Funding shortage", "COVID pandemic", "Hardware shipment delays"],
+      "hint": "They still reached the CDR stage despite global restrictions.",
+      "answer": 1
+    }
+  ]
+}

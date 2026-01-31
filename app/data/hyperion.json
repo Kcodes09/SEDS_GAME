@@ -1,0 +1,18 @@
+{
+  "title": "Team Hyperion – CubeSat Missions",
+  "story": "Team Hyperion works on CubeSat missions designed to operate in low Earth orbit. Their 1U satellite, NEMOlite, aims to demonstrate core satellite technologies and test the Attitude Determination and Control System (ADCS) in space. The team's long-term mission, NEMO, is a remote-sensing satellite intended to monitor microplastic levels in the Gulf of Mannar. Hyperion combines engineering with environmental sustainability.",
+  "questions": [
+    {
+      "question": "What is the main purpose of NEMOlite?",
+      "options": ["Test ADCS and basic flight capability", "Serve as a communication satellite", "Conduct deep-space research"],
+      "hint": "It's primarily a demonstration satellite.",
+      "answer": 0
+    },
+    {
+      "question": "What environmental issue does NEMO aim to study?",
+      "options": ["Air pollution", "Microplastics in the ocean", "Forest cover changes"],
+      "hint": "It focuses on the Gulf of Mannar.",
+      "answer": 1
+    }
+  ]
+}

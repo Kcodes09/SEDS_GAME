@@ -1,0 +1,18 @@
+{
+  "title": "Introduction to SEDS BPHC",
+  "story": "SEDS BPHC was founded in April 2019 by a group of students passionate about aerospace. Over the years, the club has grown into an 80+ member multidisciplinary team involving students from Mechanical Engineering, Computer Science, Electronics and Communication, Physics, Biology, and more. SEDS BPHC works on rockets, CanSats, CubeSats, propulsion research, and regularly participates in national and international competitions.",
+  "questions": [
+    {
+      "question": "When was SEDS BPHC founded?",
+      "options": ["2018", "2019", "2021"],
+      "hint": "It was founded just before the pandemic.",
+      "answer": 1
+    },
+    {
+      "question": "How many members does SEDS BPHC have today?",
+      "options": ["30+", "50+", "80+"],
+      "hint": "The club has expanded rapidly over the last few years.",
+      "answer": 2
+    }
+  ]
+}

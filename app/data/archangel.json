@@ -1,0 +1,18 @@
+{
+  "title": "Team Archangel – R&D Division",
+  "story": "Team Archangel is the research and development backbone of SEDS BPHC. The team focuses on developing fundamental aerospace technologies such as Thrust Vector Control (TVC) and solid rocket motors. Archangel has already designed, built, and tested E-, I-, G-, and K-class motors and is now moving towards more advanced M-class and hybrid rocket motors. Their work enables other SEDS teams to innovate and push technical boundaries.",
+  "questions": [
+    {
+      "question": "What is Thrust Vector Control used for?",
+      "options": ["Steering a rocket during flight", "Storing rocket fuel", "Reducing engine temperature"],
+      "hint": "It changes the direction of the thrust.",
+      "answer": 0
+    },
+    {
+      "question": "Which motor classes has SEDS already tested?",
+      "options": ["A, B, C", "E, I, G, K", "M, N, O"],
+      "hint": "These motors sit in the mid-to-high power range.",
+      "answer": 1
+    }
+  ]
+}
